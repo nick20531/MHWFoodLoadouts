@@ -23,18 +23,20 @@
   may quarantine it. This is normal for any tool that writes
   to game memory — Cheat Engine has the same issue.
 
-  Step 1 — Unblock the .exe:
+  Step 1 — Extract and run build file
+
+  Step 2 — Unblock the .exe:
     1. Right-click MHW Food Loadouts.exe
     2. Click Properties
     3. At the bottom tick "Unblock" then click OK
 
-  Step 2 — If Windows Defender quarantines it:
+  Step 3 — If Windows Defender quarantines it:
     1. Open Windows Security
     2. Go to Virus & threat protection > Protection history
     3. Find the blocked file and click Allow
     Or: add the folder to exclusions before running
 
-  Step 3 — If attach fails with a permissions error:
+  Step 4 — If attach fails with a permissions error:
     Right-click the .exe and select "Run as administrator"
 
 ----------------------------------------------------------------
